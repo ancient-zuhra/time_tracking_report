@@ -1,7 +1,0 @@
-﻿  time_tracking_report.cpp
-C:\Users\Nikita\Desktop\PROJECTS\testProj Intellias\time_tracking_report\time_tracking_report\time_tracking_report.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Nikita\Desktop\PROJECTS\testProj Intellias\time_tracking_report\time_tracking_report\time_tracking_report.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Nikita\Desktop\PROJECTS\testProj Intellias\time_tracking_report\time_tracking_report\time_tracking_report.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Nikita\Desktop\PROJECTS\testProj Intellias\time_tracking_report\time_tracking_report\time_tracking_report.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Nikita\Desktop\PROJECTS\testProj Intellias\time_tracking_report\time_tracking_report\time_tracking_report.cpp(124,27): warning C4018: '<': signed/unsigned mismatch
-  time_tracking_report.vcxproj -> C:\Users\Nikita\Desktop\PROJECTS\testProj Intellias\time_tracking_report\Debug\time_tracking_report.exe
